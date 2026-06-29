@@ -21,12 +21,18 @@ A Machine Learning web application developed using Python and Streamlit that pre
 ## 📂 Project Structure
 Food_calories_project/
 ├── app/
+
 │   └── app.py
+
 ├── model/
+
 │   ├── train_model.py
 │   └── model.pkl
+
 ├── data/
+
 │   └── food_data.csv
+
 └── requirements.txt
 
 ## ▶️ Run the Project
